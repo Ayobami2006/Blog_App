@@ -1,0 +1,18 @@
+.brand {
+    width: 50px;
+}
+.search {
+    display: flex;
+    flex-direction: row;
+    padding-left: 900px;
+}
+.footer {
+    margin-top: 5%;
+}
+.text {
+    margin: auto;
+}
+.frt{
+    font-weight: bold;
+    font-size: x-large;
+}
